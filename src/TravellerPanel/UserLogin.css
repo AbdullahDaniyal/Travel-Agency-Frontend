@@ -1,0 +1,24 @@
+.login-page {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-container {
+    width: 40%;
+    /* Rest of your styles for login container */
+}
+
+.canvas-container {
+    width: 60%;
+    height: 100vh;
+    
+}
+
+.canvas {
+    width: 100%;
+    height: 100%;
+}
+
+/* Ensure the OrbitControls and 3D canvas have appropriate height and interactions */
