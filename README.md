@@ -22,7 +22,7 @@ To set up the frontend, clone the repository and install the dependencies:
 3. npm install
 ## Usage
 To run the application:
-1. Make sure that the backend is running of Travel Agency Portal, you can clone and follow the instuctions of the following link: 
+1. Make sure that the backend is running of Travel Agency Portal, you can clone and follow the instuctions of the following link: https://github.com/AbdullahDaniyal/Travel-Agency-Backend.git
 2. After the backend is running, you need to run the frontend application.
 3. Type 'npm run dev' to run the frontend.
 ## License
