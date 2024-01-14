@@ -17,8 +17,8 @@ The application features a responsive design, ensuring compatibility across vari
 7. useState & useEffect Hooks: For state management and executing side effects in functional components.
 ## Installation
 To set up the frontend, clone the repository and install the dependencies:
-1. git clone [URL-of-Your-GitHub-Repository]
-2. cd [Your-Frontend-Project-Folder]
+1. git clone https://github.com/AbdullahDaniyal/Travel-Agency-Frontend.git
+2. cd Backend
 3. npm install
 ## Usage
 To run the application:
